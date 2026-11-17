@@ -1,7 +1,7 @@
 # Project 21: AI-Powered Financial Accountant
 
 **Category:** FinTech
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,11 @@ Streamlit, DeepSeek, OpenRouter, Botpress, Plotly, Python
 
 ## Demo
 
-🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/21.mp4
+[![AI-Powered Financial Accountant](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-21-ai-powered-financial-accountant.jpg)](https://automatrixlab.com/projects/project-21-ai-powered-financial-accountant/)
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/21-narrated-20261109.mp4
+
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-21-ai-powered-financial-accountant/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
